@@ -1,0 +1,14 @@
+*   {
+    box-sizing: border-box;
+    background-color: rgb(204, 192, 192);
+    margin: 0;
+}
+
+.navbar {
+
+}
+
+.navbar-expand {
+    -sm|-md|-lg|-xl
+    
+}
