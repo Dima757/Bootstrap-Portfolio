@@ -1,14 +1,15 @@
-*   {
-    box-sizing: border-box;
-    background-color: rgb(204, 192, 192);
-    margin: 0;
+* {
 }
 
-.navbar {
-
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: darkgrey;
+    border-top: 5px teal solid;
 }
 
-.navbar-expand {
-    -sm|-md|-lg|-xl
-    
+.container {
+   
 }
